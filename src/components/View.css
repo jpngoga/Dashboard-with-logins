@@ -1,0 +1,58 @@
+.view-header{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   gap: 850px;
+   padding: 10px 30px;
+   background-color: #faebd7;
+}
+
+.view-header-blocksilde{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   gap: 10px
+}
+.view-mid-header{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   gap: 650px;
+    margin: 10px 30px;
+    border: 1px solid gray
+}
+.view-mid-header .block-1{
+    padding: 20px 30px;
+    line-height: 1;
+}
+.view-mid-header .block-2{
+    padding: 20px;
+    line-height: 1;
+}
+.view-mid-header  h1{
+    font-size: 24px;
+    font-weight: 100;
+}
+.view-mid-header .block-2 h1{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.cards-pics-wrapper{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   gap: 30px;
+   margin: 30px;
+}
+.view-image-container{
+    width: 820px;
+ 
+}
+.view-side-image-container{
+   display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 300px
+}

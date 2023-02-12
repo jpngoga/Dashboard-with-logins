@@ -1,0 +1,147 @@
+.login-wrapper{
+    position: fixed;
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      );
+    justify-content: center;
+    
+    height: 100%;
+    margin: 0;
+    width: 100%;
+    z-index: 3;
+    
+}
+
+.login-container{
+    width: 250px;
+    height: 570px;
+    padding: 30px;
+    background-color: #fff;
+    margin-left: 520px;
+    border-radius: 5px;
+
+}
+.login-container h1{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.login-container p{
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+.login-container label{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.login-container input{
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding: 8px 29px;
+    border-radius: 5px;
+    border: 1px solid #d8d5d5;
+}
+.login-container button{
+    
+    padding: 8px 25px;
+    border-radius: 5px;
+    border: none;
+    background-color: #0a0a6e;
+    color: #fff;
+    
+}
+.login-container .login-one{
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    background-color: #011640;
+}
+.login-container .login-two{
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    background-color: #1877F2;
+
+}
+.login-container .login-three{
+ 
+   text-align: center;
+   border-radius: 5px;
+   border: none;
+   background-color: #C63D2D;
+   margin-bottom: 40px;
+
+}
+
+
+/* create.css */
+.create-wrapper{
+   
+    justify-content: center;
+    z-index: 2;
+    height: 100%;
+    margin: 0;
+  
+}
+
+.create-container{
+    width: 250px;
+    height: 570px;
+    padding: 30px;
+    background-color: #fff;
+    margin-left: 520px;
+    border-radius: 5px;
+
+}
+.create-container h1{
+    font-size: 20px;
+   
+}
+.create-container p{
+    font-size: 15px;
+  
+}
+.create-container label{
+    font-size: 15px;
+   
+}
+.create-container input{
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding: 8px 29px;
+    border-radius: 5px;
+    border: 1px solid #d8d5d5;
+}
+
+.create-container .create-names{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    width: 250px;
+}
+.create-container .create-nameslast{
+    display: flex;
+    flex-direction: row;
+    gap: 55px;
+    width: 250px;
+}
+.create-container .create-inputsnames{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+ 
+}
+.create-container .create-inputnames{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+ 
+}
+
+.create-container .create-names .one{
+   width: 20px;
+}
+
+.create-container .create-names .two{
+   width: 15px;
+}
