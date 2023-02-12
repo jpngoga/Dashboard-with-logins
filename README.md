@@ -1,4 +1,5 @@
 # Dashboard-with-logins
+#before using these codes create your local react app so you can have "node-modules" that is missing here 
 blair Owens project fetching news api and dash board using reduxtollkit
 Redux Toolkit Quick Start
 WHAT YOU'LL LEARN
